@@ -3,6 +3,5 @@
 - The most interesting and surprising fact I found after analyzing the data is Python is the most popular language among the users.
 - An actionable recommendation for developers based on my analysis is follow popular repositories to learn more in your interesting language. If developers would like to be hired, the need to create projects and they need to give all the details like email, wiki etc in github.
 
-## Sample Screenshot for reference
-![image](https://github.com/user-attachments/assets/2da51471-13d8-442e-91b2-a360d26ad055)
+
 
